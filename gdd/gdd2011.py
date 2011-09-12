@@ -85,9 +85,9 @@ def word_num_2_dec(word):
 def is_dup(word):
     words = txt_b.split()
     if words.count(word) > 1:
-        True
+        return True
     else:
-        False
+        return False
         
 def num_bonitos():
     words = txt_b.split()
