@@ -1,0 +1,20 @@
+!
+! Title: Obscure gambling list
+! Description: Growing list of illegal virtual gambling sites
+! Version: 0.0.1
+! Homepage: https://github.com/nossal/miscellaneous/blocklist.txt
+! Last modified: 2025-11-21T07:31:22.410Z
+!
+||77vipv8.com^
+||08yvh4.com^
+||1br29.com^
+||57ak.com^
+||6566fun.com^
+||864fgfy.com^
+||aa888.me^
+||bdxdty.com^
+||jrzhvq.com^
+||partner3633bet.com^
+||spinwiz3.com^
+||top88.ru^
+||wftelb.com^
