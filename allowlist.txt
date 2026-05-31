@@ -11,6 +11,7 @@
 !@@||*.lgtvcommon.com^
 @@||aic-ngfts.lge.com^
 @@||aic.cdpbeacon.lgtvcommon.com^
+@@||aic.cdpbeacon2.lgtvcommon.com^
 @@||aic.cdplauncher.lgtvcommon.com^
 @@||aic.cdpsvc.lgtvcommon.com^
 @@||aic.lgchhomeapp.lgtvcommon.com^
@@ -21,8 +22,10 @@
 @@||br.rdx2.lgtvsdp.com^
 
 @@||saa.pluto.tv^
+@@||sp.pluto.tv^
 
 # Smart TV Streamings
+@@||ads.its-newid.net^
 @@||*.aiv-delivery.net^
 @@||a-fds.youborafds01.com^
 @@||ae.mmstat.com^
