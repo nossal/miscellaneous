@@ -1,10 +1,11 @@
 !
-! Title: Obscure gambling list
-! Description: Growing list of illegal virtual gambling sites
-! Version: 0.0.1
+! Title: Custom blocklist 
+! Description: Growing list of gambling/bets, paywall and ads
+! Version: 0.0.2
 ! Homepage: https://github.com/nossal/miscellaneous/blocklist.txt
-! Last modified: 2025-11-21T07:31:22.410Z
-!
+! Last modified: Sun May 31 06:38:27 PM UTC 2026
+
+! Obscure gambling list
 ||77vipv8.com^
 ||08yvh4.com^
 ||1br29.com^
@@ -18,3 +19,20 @@
 ||spinwiz3.com^
 ||top88.ru^
 ||wftelb.com^
+
+! Paywall
+||sourcepointcmp.bloomberg.com^
+||coordinator.cm.bloomberg.com^
+||paywall.folha.uol.com.br^
+||fundingchoicesmessages.google.com^
+||static.infoglobo.com.br^
+||acesso.estadao.com.br^
+||assets.estadao.com.br^
+
+! Ads
+||tinypass.com^
+||taboola.com
+||honorableland.com^
+||capture.condenastdigital.com
+||adobedtm.com^
+||assets.adobedtm.com
